@@ -1,0 +1,4 @@
+*.zip
+
+Rempah_Dataset/**/*
+!Rempah_Dataset/**/.gitkeep
