@@ -1,1 +1,1 @@
-This directory is used to store *Jahe* images
+This directory is used to store **Jahe** images
