@@ -83,14 +83,14 @@ The model was evaluated on the held-out test set. Metrics reported include accur
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/spices-classification.git
+git clone https://github.com/hazel00110/spices-classification.git
 cd spices-classification
 ```
 
 ### 2. Install dependencies
 
 ```bash
-pip install tensorflow keras scikit-learn pandas numpy matplotlib seaborn pillow
+pip install tensorflow keras scikit-learn pandas numpy matplotlib
 ```
 
 ### 3. Download the dataset
