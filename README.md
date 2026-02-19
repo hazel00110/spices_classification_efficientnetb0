@@ -21,7 +21,7 @@ The model leverages **EfficientNetB0** pretrained on ImageNet as a feature extra
 
 ## 📁 Dataset
 
-- **Source:** [dataset.blabla.bla](dataset.blabla.bla)
+- **Source:** [https://drive.google.com/file/d/1Fhi6-6V4kKdxgiplUt38iVlolN6tCYHd/view?usp=sharing](https://drive.google.com/file/d/1Fhi6-6V4kKdxgiplUt38iVlolN6tCYHd/view?usp=sharing)
 - **Structure:** One folder per class, containing `.jpg`, `.jpeg`, and `.webp` images
 - **Split:** 80% training / 20% testing (with 20% of training used for validation)
 
@@ -95,7 +95,7 @@ pip install tensorflow keras scikit-learn pandas numpy matplotlib seaborn pillow
 
 ### 3. Download the dataset
 
-Download the dataset from [dataset.blabla.bla](dataset.blabla.bla) and place it in a folder named `Rempah_Dataset/` with the following structure:
+Download the dataset from [https://drive.google.com/file/d/1Fhi6-6V4kKdxgiplUt38iVlolN6tCYHd/view?usp=sharing](https://drive.google.com/file/d/1Fhi6-6V4kKdxgiplUt38iVlolN6tCYHd/view?usp=sharing) and place it in a folder named `Rempah_Dataset/` with the following structure:
 
 ```
 Rempah_Dataset/
